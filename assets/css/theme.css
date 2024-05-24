@@ -2,6 +2,10 @@
 @import url("href=https://fonts.googleapis.com/css2?family=Ruda:wght@400..900&display=swap");
 @import url("./navbar.css");
 @import url("./buttons.css");
+@import url("./background.css");
+@import url("./input.css");
+@import url("./position.css");
+@import url("./colors.css");
 /*Configurações de cores */
 
 :root {
@@ -9,7 +13,7 @@
   --bg-orange-hover: #d85f08;
   --bg-black: #000;
   --bg-marrom-1: #757575;
-  --bg-marrom-1: #f4f4f4;
+  --bg-marrom-2: #f4f4f4;
   --bg-white: #fff;
   --bg-yellow: #fcb705;
   --bg-purple: #e9008c;
