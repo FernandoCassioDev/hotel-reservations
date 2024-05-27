@@ -31,3 +31,10 @@
     outline: 2px solid var(--bg-orange);
     border-radius: 0px;
 }
+
+.btn-orange:disabled{
+    color: var(--bg-white);
+    background-color: var(--bg-orange);
+    cursor: not-allowed;
+    opacity: 0.6;
+}
